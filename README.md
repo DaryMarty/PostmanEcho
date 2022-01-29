@@ -1,1 +1,1 @@
-https://github.com/DaryMarty/PostmanEcho.git
+[![Build status](https://ci.appveyor.com/api/projects/status/r5326yhgv2y4ja4r?svg=true)](https://ci.appveyor.com/project/DaryMarty/postmanecho)
